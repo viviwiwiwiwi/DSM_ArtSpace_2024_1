@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">ArtSpace</string>
+    <string name="workgustav" translatable="false">The Kiss</string>
+    <string name="authoryeargustav" translatable="false">Gustav Klimt (1909)</string>
+    <string name="workvincent" translatable="false">The Starry Night</string>
+    <string name="authoryearvincent" translatable="false">Vincent van Gogh (1889)</string>
+    <string name="workalex" translatable="false">The Fallen Angel</string>
+    <string name="authoryearalex" translatable="false">Alexandre Cabanel (1847)</string>
+    <string name="workmonet" translatable="false">Woman with a Parasol</string>
+    <string name="authoryearmonet" translatable="false">Claude Monet (1875)</string>
+</resources>
